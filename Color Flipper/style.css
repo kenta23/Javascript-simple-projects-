@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    cursor: pointer;
+}
+.nav-link {
+    font-weight: 600;
+    font-size: 1.4rem;
+    color: rgb(12, 150, 150);
+}
+
+.main {   
+    min-height: calc(100vh - 3rem);
+    display: grid;
+    place-items: center;
+    
+}
+nav {
+    background-color: rgb(179, 212, 210);
+}
